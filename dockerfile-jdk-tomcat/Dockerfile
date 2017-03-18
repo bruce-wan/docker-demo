@@ -1,7 +1,7 @@
 # Pull base image  
 FROM ubuntu  
   
-MAINTAINER zing wang "zing.jian.wang@gmail.com"   
+MAINTAINER WanChuan "165646633@qq.com"   
   
 # Install JDK 7
 ADD ./jdk-7u80-linux-x64.tar.gz /opt
